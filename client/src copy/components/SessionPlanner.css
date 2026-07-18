@@ -1,0 +1,15 @@
+.session-form {
+  align-self: start;
+  display: grid;
+  gap: 0.9rem;
+}
+
+.session-form h2 {
+  margin: 0;
+}
+
+.session-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
