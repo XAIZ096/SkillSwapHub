@@ -1,0 +1,24 @@
+{
+  "name": "skillswap-hub-server",
+  "version": "1.0.0",
+  "description": "SkillSwap Hub backend using Node, Express, Passport, and MongoDB native driver.",
+  "main": "src/server.js",
+  "scripts": {
+  "start": "node --env-file=.env src/server.js",
+  "dev": "node --env-file=.env --watch src/server.js",
+  "seed": "node --env-file=.env scripts/seed.js",
+  "lint": "eslint .",
+  "format": "prettier --write ."
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "mongodb": "^6.8.0",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "prettier": "^3.3.3"
+  }
+}
