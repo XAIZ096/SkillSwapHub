@@ -1,0 +1,19 @@
+{
+  "name": "skillswap-hub-p3",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CS5610 Project 3 full-stack React, Node, Express, MongoDB project.",
+  "scripts": {
+    "install-all": "cd server && npm install && cd ../client && npm install",
+    "seed": "cd server && npm run seed",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "build-client": "cd client && npm run build",
+    "start": "cd server && npm start",
+    "lint": "cd server && npm run lint && cd ../client && npm run lint",
+    "format": "cd server && npm run format && cd ../client && npm run format"
+  },
+  "dependencies": {
+    "mongodb": "^7.5.0"
+  }
+}
