@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="720" viewBox="0 0 1100 720">
+  <rect width="1100" height="720" fill="#f5f7fb"/>
+  <rect x="50" y="45" width="1000" height="150" rx="28" fill="#111827"/>
+  <text x="90" y="95" fill="#bfdbfe" font-family="Arial" font-size="18" font-weight="700">PEER-TO-PEER COLLEGE LEARNING</text>
+  <text x="90" y="145" fill="#ffffff" font-family="Arial" font-size="48" font-weight="700">SkillSwap Hub</text>
+  <text x="90" y="180" fill="#d1d5db" font-family="Arial" font-size="22">Dashboard with skill marketplace, requests, and sessions.</text>
+  <rect x="50" y="225" width="180" height="55" rx="14" fill="#2563eb"/>
+  <text x="95" y="260" fill="#ffffff" font-family="Arial" font-size="18" font-weight="700">Dashboard</text>
+  <rect x="245" y="225" width="160" height="55" rx="14" fill="#ffffff" stroke="#dbeafe"/>
+  <text x="300" y="260" fill="#1e40af" font-family="Arial" font-size="18" font-weight="700">Skills</text>
+  <rect x="420" y="225" width="175" height="55" rx="14" fill="#ffffff" stroke="#dbeafe"/>
+  <text x="470" y="260" fill="#1e40af" font-family="Arial" font-size="18" font-weight="700">Requests</text>
+  <rect x="610" y="225" width="175" height="55" rx="14" fill="#ffffff" stroke="#dbeafe"/>
+  <text x="662" y="260" fill="#1e40af" font-family="Arial" font-size="18" font-weight="700">Sessions</text>
+  <rect x="50" y="315" width="620" height="170" rx="22" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="85" y="365" fill="#111827" font-family="Arial" font-size="30" font-weight="700">Welcome back, Demo Student</text>
+  <text x="85" y="405" fill="#475569" font-family="Arial" font-size="20">Find peers, offer your skills, and schedule learning sessions.</text>
+  <rect x="705" y="315" width="345" height="170" rx="22" fill="#eff6ff" stroke="#bfdbfe"/>
+  <text x="735" y="365" fill="#1d4ed8" font-family="Arial" font-size="38" font-weight="700">1270</text>
+  <text x="735" y="405" fill="#1f2937" font-family="Arial" font-size="22">Synthetic records</text>
+  <rect x="50" y="525" width="230" height="120" rx="22" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="105" y="575" fill="#1d4ed8" font-family="Arial" font-size="42" font-weight="700">120</text>
+  <text x="113" y="610" fill="#1f2937" font-family="Arial" font-size="20">Students</text>
+  <rect x="305" y="525" width="230" height="120" rx="22" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="365" y="575" fill="#1d4ed8" font-family="Arial" font-size="42" font-weight="700">760</text>
+  <text x="382" y="610" fill="#1f2937" font-family="Arial" font-size="20">Skills</text>
+  <rect x="560" y="525" width="230" height="120" rx="22" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="620" y="575" fill="#1d4ed8" font-family="Arial" font-size="42" font-weight="700">230</text>
+  <text x="620" y="610" fill="#1f2937" font-family="Arial" font-size="20">Requests</text>
+  <rect x="815" y="525" width="230" height="120" rx="22" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="875" y="575" fill="#1d4ed8" font-family="Arial" font-size="42" font-weight="700">160</text>
+  <text x="875" y="610" fill="#1f2937" font-family="Arial" font-size="20">Sessions</text>
+</svg>
