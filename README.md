@@ -6,7 +6,15 @@ Xinhao Chen
 
 ## Class Link
 
-CS5610 Web Development
+CS5610 Web Development：https://northeastern.instructure.com/courses/249954/assignments/3196237
+
+## Deployed Website
+
+Render :https://skillswaphub-ldip.onrender.com
+
+## Demo Video
+
+
 
 ## Project Objective
 
