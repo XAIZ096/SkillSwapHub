@@ -7,7 +7,7 @@ const { createPasswordHash } = require('../utils/password');
 
 const router = express.Router();
 
-router.post('/register', async (request, response) => {
+router.post('/logout', (request, response) => {
   const { username, password, displayName, major, year, contactPreference } = request.body;
 
   if (!username || !password || !displayName) {
