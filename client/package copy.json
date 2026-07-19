@@ -4,11 +4,11 @@
   "private": true,
   "description": "SkillSwap Hub React frontend using hooks and Fetch API.",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "lint": "eslint .",
-    "format": "prettier --write ."
+  "dev": "vite --host 0.0.0.0",
+  "build": "vite build",
+  "preview": "vite preview",
+  "lint": "eslint .",
+  "format": "prettier --write ."
   },
   "dependencies": {
     "@vitejs/plugin-react": "^4.3.1",
