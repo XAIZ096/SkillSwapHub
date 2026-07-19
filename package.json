@@ -4,14 +4,13 @@
   "private": true,
   "description": "CS5610 Project 3 full-stack React, Node, Express, MongoDB project.",
   "scripts": {
-    "install-all": "cd server && npm install && cd ../client && npm install",
-    "seed": "cd server && npm run seed",
-    "server": "cd server && npm run dev",
-    "client": "cd client && npm run dev",
-    "build-client": "cd client && npm run build",
-    "start": "cd server && npm start",
-    "lint": "cd server && npm run lint && cd ../client && npm run lint",
-    "format": "cd server && npm run format && cd ../client && npm run format"
+  "install-all": "cd server && npm install && cd ../client && npm install",
+  "build-client": "cd client && npm run build",
+  "start": "cd server && npm start",
+  "server": "cd server && npm run dev",
+  "client": "cd client && npm run dev",
+  "seed": "cd server && npm run seed",
+  "lint": "cd server && npm run lint && cd ../client && npm run lint"
   },
   "dependencies": {
     "mongodb": "^7.5.0"
