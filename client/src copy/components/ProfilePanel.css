@@ -1,9 +1,0 @@
-.profile-panel h2 {
-  margin-top: 0;
-}
-
-.profile-form {
-  display: grid;
-  gap: 1rem;
-  max-width: 540px;
-}
