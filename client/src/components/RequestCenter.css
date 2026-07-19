@@ -1,0 +1,22 @@
+.request-toolbar {
+  align-items: end;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr 240px;
+}
+
+.request-toolbar h2 {
+  margin: 0;
+}
+
+.request-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+@media (max-width: 700px) {
+  .request-toolbar {
+    grid-template-columns: 1fr;
+  }
+}
