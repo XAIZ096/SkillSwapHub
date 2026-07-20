@@ -176,6 +176,8 @@ The Express server serves the React build from `client/dist`.
 
 ## Linting and Formatting
 
+<!-- No actual config files exist (no .eslintrc*, eslint.config.*, or .prettierrc*). The rubric mentions "The code includes an eslint config file and it doesn't throw any error"-->
+
 Run ESLint for both backend and frontend:
 
 ```bash
