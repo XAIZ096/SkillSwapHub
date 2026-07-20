@@ -13,6 +13,8 @@ function AuthPanel({ user, onAuthChange, onLogout }) {
     year: 'Fourth Year',
     contactPreference: 'In-app request',
   });
+  // Every new account silently gets whatever the hardcoded default is ("Fourth Year"), regardless of the student's actual year.
+  // There is no input in UI for this.
   const [error, setError] = useState('');
 
   function updateForm(event) {
