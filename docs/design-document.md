@@ -181,6 +181,8 @@ If the instructor approves solo work, Xinhao Chen will implement the full stack 
 
 ## Design Mockups
 
+<!-- Requests, Sessions, Profile, and Auth panels have no corresponding mockup which can be included. -->
+
 ### Dashboard Mockup
 
 ![Dashboard mockup](mockups/dashboard-mockup.svg)
