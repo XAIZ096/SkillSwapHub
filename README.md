@@ -99,6 +99,8 @@ The backend reads environment variables from the runtime environment. Do not com
 
 A sample file is provided here:
 
+<!-- server/.env.example is referenced in the README but doesn't exist. -->
+
 ```bash
 server/.env.example
 ```
