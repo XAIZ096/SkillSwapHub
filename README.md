@@ -18,6 +18,8 @@ Render :https://skillswaphub-ldip.onrender.com
 
 ## Project Objective
 
+## I love the idea of the project. It will be a very useful tool if people start using it regularly. Great job!
+
 SkillSwap Hub is a full-stack peer-to-peer skill exchange platform for college students. Students can create skill listings, browse skills from other students, send swap requests, and schedule learning sessions.
 
 This project was built for Project 3 using the required architecture:
