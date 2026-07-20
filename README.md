@@ -222,3 +222,6 @@ AI was used for brainstorming, planning, and organizing the proposal/documentati
 ## License
 
 MIT License
+
+<!-- Missing .gitignore file. Not in rubric but it is a good practice -->
+<!-- Also, there is some placeholder text in read me to replace with screenshots which should be avoided.-->
