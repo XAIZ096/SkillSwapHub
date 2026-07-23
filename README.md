@@ -73,7 +73,7 @@ Other generated accounts use:
 username: student1, student2, student3, ...
 password: student123
 ```
-
+I like that users can look through the skills without logging in. One thing I noticed is that the owner ID on each skill card seems unnecessary for regular users. Maybe it could be hidden.
 ## Instructions to Build and Run Locally
 
 ### 1. Install dependencies
