@@ -4,6 +4,13 @@
 
 Xinhao Chen
 
+## Implemented Changes After Usability Study
+
+clearer swap request confirmation
+improved visual hierarchy
+grouped Add a Skill form
+keyboard focus and accessibility improvements
+
 ## Class Link
 
 CS5610 Web Development：https://northeastern.instructure.com/courses/249954/assignments/3196237
