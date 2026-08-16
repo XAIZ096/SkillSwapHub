@@ -23,10 +23,10 @@
   display: flex;
   flex-direction: column;
   gap: 0.8rem;
-  margin-top: 1rem;
 }
 
-.filter-form h3 {
+.filter-form h3,
+.add-skill-panel h3 {
   margin: 0;
 }
 
@@ -59,8 +59,73 @@
   font-weight: 700;
 }
 
+.add-skill-panel {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.full-width-button {
+  width: 100%;
+}
+
+.marketplace-header {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.success-message {
+  align-items: center;
+  background: #dcfce7;
+  border: 1px solid #86efac;
+  border-left: 6px solid #16a34a;
+  border-radius: 14px;
+  color: #14532d;
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.success-message p {
+  margin: 0.25rem 0 0;
+}
+
+.success-button {
+  background: #16a34a;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+.inline-status {
+  background: #eff6ff;
+  border: 1px solid #bfdbfe;
+  border-radius: 12px;
+  color: #1e3a8a;
+  margin: 0;
+  padding: 0.75rem;
+}
+
+.form-instruction {
+  color: #64748b;
+  font-size: 0.92rem;
+  margin: 0;
+}
+
 .skill-results {
   display: grid;
   gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+}
+
+@media (max-width: 850px) {
+  .skill-sidebar {
+    position: static;
+    max-height: none;
+    overflow-y: visible;
+  }
+
+  .success-message {
+    align-items: flex-start;
+    flex-direction: column;
+  }
 }
