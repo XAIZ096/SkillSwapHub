@@ -54,7 +54,7 @@ function App() {
     }
 
     if (activePage === 'skills') {
-      return <SkillList user={user} />;
+      return <SkillList user={user} onNavigate={setActivePage} />;
     }
 
     if (activePage === 'requests') {
