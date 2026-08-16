@@ -125,6 +125,40 @@ label {
   color: #991b1b;
 }
 
+button:hover {
+  transform: translateY(-1px);
+}
+
+button:active {
+  transform: translateY(0);
+}
+
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+a:focus-visible {
+  outline: 3px solid #f59e0b;
+  outline-offset: 3px;
+}
+
+.primary-button:hover {
+  background: #1d4ed8;
+}
+
+.secondary-button:hover {
+  background: #c7d2fe;
+}
+
+.danger-button:hover {
+  background: #fecaca;
+}
+
+.card h2,
+.card h3 {
+  color: #111827;
+}
+
 .muted {
   color: #64748b;
 }
