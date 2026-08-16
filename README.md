@@ -6,10 +6,7 @@ Xinhao Chen
 
 ## Implemented Changes After Usability Study
 
-clearer swap request confirmation
-improved visual hierarchy
-grouped Add a Skill form
-keyboard focus and accessibility improvements
+Clearer swap request confirmation; improved visual hierarchy; grouped Add a Skill form; keyboard focus and accessibility improvements
 
 ## Class Link
 
